@@ -1,7 +1,6 @@
 ---
 name: Malek Hassan
 image: images/malek_hassan.jpeg
-description: Treasurer
 role: Treasurer
 ---
 
