@@ -26,6 +26,26 @@ mascot:
   icon: fa-solid fa-dog
   description: Mascot
 
+president:
+  icon: fa-solid fa-microscope
+  description: President
+
+vice-president:
+  icon: fa-solid fa-microscope
+  description: Vice-President
+
+treasurer:
+  icon: fa-solid fa-microscope
+  description: Treasurer
+
+secretary:
+  icon: fa-solid fa-microscope
+  description: Secretary
+
+faculty-advisor:
+  icon: fa-solid fa-microscope
+  description: Faculty Advisor
+
 # general
 
 link:
