@@ -1,6 +1,6 @@
 ---
 name: Dan Reddy
-image: images/dan_reddy.jpg
+image: images/dan_reddy.jpeg
 role: President
 ---
 
