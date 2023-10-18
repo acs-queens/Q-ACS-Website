@@ -1,7 +1,7 @@
 ---
 name: Dan Reddy
 image: images/dan_reddy.jpeg
-role: President
+role: president
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
