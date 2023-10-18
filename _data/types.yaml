@@ -34,6 +34,10 @@ vice-president:
   icon: fa-solid fa-microscope
   description: Vice-President
 
+immediate-past-vice-president:
+  icon: fa-solid fa-microscope
+  description: Immediate Past Vice-President
+
 treasurer:
   icon: fa-solid fa-microscope
   description: Treasurer
