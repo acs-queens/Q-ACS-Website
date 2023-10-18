@@ -1,6 +1,6 @@
 ---
 name: Mark McKeown
-image: images/mark_mckeown.jpg
+image: images/mark_mckeown.jpeg
 role: Vice President
 ---
 
