@@ -1,18 +1,15 @@
 # site properties and page defaults
-title: acs-queens
+title: Q-ACS
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+description: Queen’s University International Student Chapter of the American Chemical Society (Q-ACS).
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@acs-queens.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: acs-queens
-  twitter: acs-queens
-  youtube: acs-queens
+  email: sscacs@queensu.ca
+  twitter: acs_queens
+  instagram: acsqueens
 
 ### jekyll settings
 
