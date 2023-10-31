@@ -10,11 +10,6 @@ nav:
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: president" %}
-{% include list.html data="members" component="portrait" filters="role: vice-president" %}
-{% include list.html data="members" component="portrait" filters="role: treasurer" %}
-{% include list.html data="members" component="portrait" filters="role: secretary" %}
-{% include list.html data="members" component="portrait" filters="role: faculty-advisor" %}
-{% include list.html data="members" component="portrait" filters="role: immediate-past-vice-president" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
