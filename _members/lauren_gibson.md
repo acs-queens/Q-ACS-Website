@@ -1,6 +1,6 @@
 ---
 name: Lauren Gibson
-image: images/Lauren_Gibson_Headshot.jpg
+image: images/Lauren_Gibson_Headshot.jpeg
 role: events-director
 ---
 
