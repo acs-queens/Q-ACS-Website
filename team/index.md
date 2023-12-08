@@ -12,7 +12,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: president" %}
 {% include list.html data="members" component="portrait" filters="role: treasurer" %}
 {% include list.html data="members" component="portrait" filters="role: secretary" %}
-{% include list.html data="members" component="portrait" filters="role: pubic-outreach-director" %}
+{% include list.html data="members" component="portrait" filters="role: public-outreach-director" %}
 {% include list.html data="members" component="portrait" filters="role: events-director" %}
 {% include list.html data="members" component="portrait" filters="role: social-media-director" %}
 {% include list.html data="members" component="portrait" filters="role: faculty-advisor" %}
