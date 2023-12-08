@@ -50,6 +50,18 @@ faculty-advisor:
   icon: fa-solid fa-microscope
   description: Faculty Advisor
 
+events-director:
+  icon: fa-solid fa-microscope
+  description: Events Director
+
+social-media-director:
+  icon: fa-solid fa-microscope
+  description: Social Media Director
+
+public-outreach-director:
+  icon: fa-solid fa-microscope
+  description: Public Outreach Director
+
 # general
 
 link:
