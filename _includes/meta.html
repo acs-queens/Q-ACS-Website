@@ -30,7 +30,7 @@
 {% assign jpg = "images/icon.jpg" | file_exists %}
 {% assign icon = png | default: jpg | relative_url %}
 
-{% assign png = "images/share.png" | file_exists %}
+{% assign png = "images/share_logo.png" | file_exists %}
 {% assign share = png | default: png | relative_url %}
 
 {% assign published = page.date | date_to_xmlschema %}
