@@ -26,7 +26,7 @@ nav:
 {%
   include figure.html
   image="images/chernoff_hall.jpeg"
-  caption="Chernoff Hall, the home of Queen's University's Department of Chemistry"
+  caption="Chernoff Hall, the home of Queen's University's Department of Chemistry and Q-ACS"
 %}
 
 {% endcapture %}
