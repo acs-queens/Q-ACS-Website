@@ -9,7 +9,7 @@ Q-ACS was recognized as an Outstanding Student Chapter for the 2022-2023 year on
 
 {% capture col1 %}
 
-{% include figure.html image="images/outstanding.jpg" %}
+{% include figure.html image="images/outstanding_chapter_award.png" %}
 
 {% endcapture %}
 
