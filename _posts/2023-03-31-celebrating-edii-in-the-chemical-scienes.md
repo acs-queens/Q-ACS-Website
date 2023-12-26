@@ -12,7 +12,7 @@ The event was attended by ~100 people and included a formal reception and dinner
 
 {% capture col1 %}
 
-{% include figure.html image="images/chernoff_hall.jpeg" caption="Chernoff Hall, the home of Queen's University's Department of Chemistry and Q-ACS" %}
+{% include figure.html image="images/edii_event.jpg" caption="Q-ACS president, Daniel Reddy, addressing attendees at the Chapter's inaugural spring reception event" %}
 
 {% endcapture %}
 
