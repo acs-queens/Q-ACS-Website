@@ -1,6 +1,6 @@
 ---
 title: Celebrating EDII in the Chemical Sciences
-author: Maximilian van Zyl (Q-ACS Secretary)
+author: Maximilian van Zyl
 ---
 
 <!-- excerpt start -->
