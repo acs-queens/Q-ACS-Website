@@ -20,4 +20,8 @@ nav:
 
 {% include section.html %}
 
+{% capture content %}
+
+{% endcapture %}
+
 {% include grid.html style="square" content=content %}
