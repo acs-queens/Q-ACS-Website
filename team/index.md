@@ -15,5 +15,3 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: events-director" %}
 {% include list.html data="members" component="portrait" filters="role: social-media-director" %}
 {% include list.html data="members" component="portrait" filters="role: faculty-advisor" %}
-
-{% include section.html background="images/background.jpg" dark=true %}
