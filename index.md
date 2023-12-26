@@ -42,7 +42,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include button.html
   link="team"
   text="Meet our team"
-  icon="fa-solid fa-arrow-right"
+  icon="fa-solid fa-arrow-left"
   flip=true
   style="bare"
 %}
