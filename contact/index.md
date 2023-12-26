@@ -5,7 +5,7 @@ nav:
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
-
+Q-ACS operates out of Queen's University's Department of Chemistry in Kingston, Ontario, Canada.
 {%
   include button.html
   type="email"
