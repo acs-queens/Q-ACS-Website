@@ -1,6 +1,6 @@
 ---
 title: Dan and Dr. Heidar-Zadeh are interviewed for Chemist – Grad & Postdoc!
-author: Dan Reddy
+author: Dan Reddy and Farnaz Heidar-Zadeh
 ---
 
 <!-- excerpt start -->
